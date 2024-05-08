@@ -1,0 +1,44 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+vibe_app/admin/src/main/resources/static/js/app*
+vibe_app/admin/src/main/resources/static/js/chunk*
+vibe_app/admin/src/main/resources/static/js/OfficialAccount.*
+vibe_app/admin/src/main/resources/static/css/app*
+vibe_app/admin/src/main/resources/static/css/chunk*
+vibe_app/admin/src/main/resources/static/css/OfficialAccount.*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+**/.DS_Store
+**/build
+
+docker/mysql/data
