@@ -50,11 +50,6 @@
 
 </div>
 
-<div class="center">
-    <button id="show-login">Login</button>
-
-</div>
-
 
 <div class="center">
     <button id="show-login">Login</button>
